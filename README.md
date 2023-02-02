@@ -3,7 +3,7 @@
 ## contracts
 
 - StakingContract
-- Marketplace
+- Market place
 - NFTdrop ERC721
 - NFTcollection
 - editionDrop (memberpass)
