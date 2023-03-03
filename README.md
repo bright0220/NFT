@@ -7,4 +7,3 @@
 - NFTdrop ERC721
 - NFTcollection
 - editionDrop (memberpass)
-- TokenERC20
